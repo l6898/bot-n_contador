@@ -1,0 +1,32 @@
+#btnclick{
+    border: none;
+    background-color: green;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+}
+#btnclick:hover{
+    background-color: red;
+}
+#btnclick:focus{}
+    #contarclick{
+       
+        font-size: 45px;
+        font-weight:800;
+
+    }
+#contarclick{
+    font-size: 45px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 
+    Arial, sans-serif;
+    margin: 10px;
+
+}    
+
+
